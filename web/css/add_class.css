@@ -1,0 +1,30 @@
+label.top_form {
+    width: 90px;
+    height: 25px;
+    margin: 15px 10px 15px 10px;
+}
+
+input.top_form {
+    width: 180px;
+    height: 25px;
+    margin: 15px 5px 15px 0px;
+}
+
+button.top_form {
+    width: 80px;
+    height: 25px;
+    margin: 15px 5px 15px 0px;
+}
+
+.radio_module {
+    width: 25px;
+    height: 25px;
+    margin: 15px;
+}
+
+input[type=radio] {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+    vertical-align: middle;
+}

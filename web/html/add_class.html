@@ -1,0 +1,388 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <title>Eel</title> -->
+    <!-- 外部スタイルシートの読み込み -->
+    <link rel="stylesheet" href="../css/add_class.css">
+    <title>物登録</title>
+</head>
+
+<body id="main_body">
+
+    <form>
+        <label class="top_form">クラス名:</label>
+        <input class="top_form" name="calss_name" id="input_class_name">
+        <button class="top_form" type="button" value="Search_Switch" name="Search" class="Search"
+            onclick="push_search()">検索</button>
+        <button class="top_form" type="button" value="Register" name="Register" class="Register"
+            onclick="Register_func()">登録</button>
+    </form>
+    <form id="select_img">
+
+    </form>
+
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript">
+        //検索結果がOIDかImageNetかを識別
+        var Search_step = "OID";
+        //OIDの選択クラスを記録
+        var OID_class = "No_Match"
+        //ImageNETの選択クラスを記録
+        var ImageNet_class = "No_Match"
+        //検索したクラスを保持
+        var input_class = "";
+
+        var dropZone;
+        var fileInput;
+
+        //検索ボタンが押された時の処理
+        async function push_search() {
+            //select_imgのform内の子要素を全削除
+            remove_select_img();
+            var input_message = document.getElementById("input_class_name").value;
+            input_class = input_message;
+            if (input_class == "") {
+                //何も入力されていない
+                return;
+            }
+            //クラス名が事前に登録されていないかを確認
+            let Duplicate_Flag = await eel.Check_duaplicate_class(input_message)();
+
+            if (Duplicate_Flag == "True") {
+                //クラス名に重複があった場合はエラーを表示
+                var add_label_place = document.getElementById('select_img');
+                var label_class_name = document.createElement('label');
+                label_class_name.innerHTML = "既に登録されているクラス名です";
+                add_label_place.appendChild(label_class_name.firstChild);
+            } else {
+                if (Search_step == "OID") {
+                    //OID
+                    print_loading();
+                    let class_list = await eel.OID_Search_class(input_message)();
+                    if (class_list.length != 0) {
+                        //OIDの画像を表示する
+                        remove_select_img();
+                        await eel.OID_print_img(class_list)();
+                    } else {
+                        Search_step = "ImageNet";
+                        push_search();
+                    }
+
+                } else {
+                    //ImageNet
+                    print_loading();
+                    let num = await eel.get_Search_class(input_message)();
+
+                    if (num > 0) {
+                        //一致したクラスがある場合
+                        remove_select_img();
+                        await eel.fetch_image()();
+                    } else {
+                        if (OID_class == "No_Match") {
+                            //検索結果無し
+                            var add_label_place = document.getElementById('select_img');
+                            var label_class_name = document.createElement('label');
+                            label_class_name.innerHTML = "お探しのクラスのデータがありません";
+                            add_label_place.appendChild(label_class_name.firstChild);
+                            Search_step = "OID";
+                        }
+                        else {
+                            Search_step = "input_img";
+                            make_dorop_img();
+                        }
+                    }
+                }
+
+
+            }
+        }
+
+        //formのselect_img内の要素を削除する
+        function remove_select_img() {
+            var parent = document.getElementById('select_img');
+            while (parent.firstChild) {
+                parent.removeChild(parent.firstChild);
+            }
+        }
+
+        //登録ボタン
+        async function Register_func() {
+            if (Search_step == "input_img") {
+                if (OID_class == "No_Match" && ImageNet_class == "No_Match") {
+                    //適切なデータが存在しない
+                    //検索結果無し
+                    var add_label_place = document.getElementById('select_img');
+                    var label_class_name = document.createElement('label');
+                    label_class_name.innerHTML = "お探しのクラスのデータがありません";
+                    add_label_place.appendChild(label_class_name.firstChild);
+                    Search_step = "OID";
+
+                } else {
+                    //ターゲット画像を登録する
+                    var img = document.getElementById('Target_img');
+                    var src = img.src;
+
+                    //ターゲット画像を保存
+                    eel.target_img_save(src, input_class);
+                    //クラスリストに追加書き込み
+                    eel.add_Class_txt(input_class);
+                    //OID,ImageNetのデータをDL
+                    Data_DL();
+                }
+
+            }
+            else {
+                var element = document.getElementById("select_img");
+                var radioNodeList = element.choice_class;
+                var a = radioNodeList.value;
+                console.log("a=>" + a);
+
+                if (a == "") {
+
+                } else {
+                    if (Search_step == "OID") {
+                        //formのselect_img内の要素を削除する
+                        remove_select_img();
+                        OID_class = a;
+                        console.log('101:a=>' + a);
+                        Search_step = "ImageNet";
+                        push_search();
+                    } else if (Search_step == "ImageNet") {
+                        remove_select_img();
+                        ImageNet_class = a;
+                        console.log('101:a=>' + a);
+                        Search_step = "input_img";
+                        make_dorop_img();
+
+
+                    }
+                }
+            }
+        }
+
+        //OID,ImageNetからDL
+        async function Data_DL() {
+            if (OID_class == "No_Match" && ImageNet_class == "No_Match") {
+                //formのselect_img内の要素を削除する
+                remove_select_img();
+                //Dataの中身を削除
+                eel.Delete_Data();
+                //DataSetダウンロードの表示
+                var add_label_place = document.getElementById('select_img');
+                var label_class_name = document.createElement('label');
+                label_class_name.innerHTML = "検出モデルは作成できません";
+                add_label_place.appendChild(label_class_name.firstChild);
+
+            } else {
+                //formのselect_img内の要素を削除する
+                remove_select_img();
+                //Dataの中身を削除
+                eel.Delete_Data();
+                //DataSetダウンロードの表示
+                var add_label_place = document.getElementById('select_img');
+                var label_class_name = document.createElement('label');
+                label_class_name.innerHTML = "データをダウンロード中....";
+                add_label_place.appendChild(label_class_name.firstChild);
+
+                console.log("OID_class=>" + OID_class);
+                console.log("ImageNet=>" + ImageNet_class);
+
+                if (OID_class == "No_Match") {
+                    //ImageNetのみ
+                    await eel.download_img(ImageNet_class, input_class)();
+
+
+                } else if (ImageNet_class == "No_Match") {
+                    //OIDのみ
+                    await eel.OID_download_img(OID_class)();
+                    //クラスの書き込み処理
+                    eel.write_class(OID_class);
+
+                } else {
+                    await eel.download_img(ImageNet_class, input_class)();
+                    //await eel.OID_download_img(OID_class)();
+                }
+
+                //formのselect_img内の要素を削除する
+                remove_select_img()
+                //学習中
+                var add_label_place = document.getElementById('select_img');
+                var label_class_name = document.createElement('label');
+                label_class_name.innerHTML = "検出モデル生成中.....";
+                add_label_place.appendChild(label_class_name.firstChild);
+
+                await eel.start_learning(input_class)()
+
+                //formのselect_img内の要素を削除する
+                remove_select_img()
+                //終了
+                var add_label_place = document.getElementById('select_img');
+                var label_class_name = document.createElement('label');
+                label_class_name.innerHTML = "検出モデル生成完了";
+                add_label_place.appendChild(label_class_name.firstChild);
+
+
+            }
+            Search_step = "OID";
+            ImageNet_class = "No_Match";
+            OID_class = "No_Match";
+            Search_step = "OID";
+        }
+
+        //画像を横並びする
+        eel.expose(set_image);
+        function set_image(image, count, calss_name) {
+            img_ID = calss_name + "_image_" + count;
+            document.getElementById(img_ID).src = image;
+        }
+
+        //HTMLにラジオボックスと画像並べる枠を作成する
+        eel.expose(make_radio_imgspace);
+        function make_radio_imgspace(calss_name) {
+
+            //挿入する場所
+            var add_radio_form = document.getElementById('select_img');
+
+            //ラジオボタンを生成
+            var radioHtml = '<input class ="radio_module" id = "choice_class" type="radio" name="choice_class" value="' + calss_name + '"';
+            radioHtml += '/>';
+
+            var radioFragment = document.createElement('input');
+            radioFragment.innerHTML = radioHtml;
+            add_radio_form.appendChild(radioFragment.firstChild);
+
+            //クラス名を表示する
+            var label_class_name = document.createElement('label');
+            label_class_name.innerHTML = calss_name;
+            label_class_name.class = "radio_module";
+            add_radio_form.appendChild(label_class_name.firstChild);
+
+            //横スクロールで画像を表示する枠を作成
+            var spaceFragment = document.createElement('div');
+            var spaceHTML = '<div id = "img_space_' + calss_name + '"style="overflow:auto; width: 1000; height: 220;">';
+            spaceFragment.innerHTML = spaceHTML;
+            add_radio_form.appendChild(spaceFragment.firstChild);
+
+            //横スクロール表示1に入れる
+            var add_img_space1 = document.getElementById('img_space_' + calss_name);
+            var spaceFragment2 = document.createElement('div');
+            var spaceHTML2 = '<div id = "img_space2_' + calss_name + '"style="width: 2000px;">';
+            spaceFragment2.innerHTML = spaceHTML2;
+            add_img_space1.appendChild(spaceFragment2.firstChild);
+
+            //横スクロール2に画像を入れる
+            var add_img_space2 = document.getElementById('img_space2_' + calss_name);
+
+            for (var i = 0; i < 7; i++) {
+                var imgFlagment = document.createElement('img');
+                var imgHTML = '<img id = "' + calss_name + '_image_' + i + '" width="200" height="200">';
+                imgFlagment.innerHTML = imgHTML;
+                add_img_space2.appendChild(imgFlagment.firstChild);
+            }
+
+
+        }
+
+        //該当なし作成
+        eel.expose(make_No_match);
+        function make_No_match() {
+            //挿入する場所
+            var add_radio_form = document.getElementById('select_img');
+
+            //ラジオボタンを生成
+            var radioHtml = '<input class ="radio_module" id = "choice_class" type="radio" name="choice_class" value="No_Match"';
+            radioHtml += '/>';
+
+            var radioFragment = document.createElement('input');
+            radioFragment.innerHTML = radioHtml;
+            add_radio_form.appendChild(radioFragment.firstChild);
+
+            //クラス名を表示する
+            var label_class_name = document.createElement('label');
+            label_class_name.innerHTML = '該当なし';
+            label_class_name.class = "radio_module";
+            add_radio_form.appendChild(label_class_name.firstChild);
+        }
+
+        //画像をドロップする場所を作成
+        function make_dorop_img() {
+            //挿入する場所
+            var add_radio_form = document.getElementById('select_img');
+
+            var dropHtml = '<div id="target_img" style="border: 1px solid; padding: 30px;">';
+
+            var dropFragment = document.createElement('div');
+            dropFragment.innerHTML = dropHtml + '<p>探す物の画像をドロップ</p>' + '</div>';
+            add_radio_form.appendChild(dropFragment.firstChild);
+
+            var add_input = document.getElementById('target_img');
+            var inputFragment = document.createElement('input');
+            inputFragment.innerHTML = '<input type="file" name="file" id="file-input">';
+            add_input.appendChild(inputFragment.firstChild);
+
+            var previewFragment = document.createElement('div');
+            previewFragment.innerHTML = '<div id="preview"></div>'
+            add_radio_form.appendChild(previewFragment.firstChild);
+
+            dropZone = document.getElementById('target_img');
+            fileInput = document.getElementById('file-input');
+
+
+            dropZone.addEventListener('dragover', function (e) {
+                e.stopPropagation();
+                e.preventDefault();
+                this.style.background = '#e1e7f0';
+            }, false);
+
+            dropZone.addEventListener('dragleave', function (e) {
+                e.stopPropagation();
+                e.preventDefault();
+                this.style.background = '#ffffff';
+            }, false);
+
+            fileInput.addEventListener('change', function () {
+                previewFile(this.files[0]);
+            });
+
+            dropZone.addEventListener('drop', function (e) {
+                e.stopPropagation();
+                e.preventDefault();
+                this.style.background = '#ffffff'; //背景色を白に戻す
+                var files = e.dataTransfer.files; //ドロップしたファイルを取得
+                if (files.length > 1) return alert('アップロードできるファイルは1つだけです。');
+                fileInput.files = files; //inputのvalueをドラッグしたファイルに置き換える。
+                previewFile(files[0]);
+            }, false);
+
+        }
+
+        function previewFile(file) {/* FileReaderで読み込み、プレビュー画像を表示。 */
+            var fr = new FileReader();
+            var preview = document.getElementById('preview');
+            fr.onload = function () {
+                var img = document.createElement('img');
+                img.id = "Target_img";
+                img.setAttribute('src', fr.result);
+                preview.innerHTML = '';
+                preview.appendChild(img);
+            };
+            fr.readAsDataURL(file);
+        }
+
+        function print_loading() {
+            //formのselect_img内の要素を削除する
+            remove_select_img()
+            //読み込み中
+            var add_label_place = document.getElementById('select_img');
+            var label_class_name = document.createElement('label');
+            label_class_name.innerHTML = "画像読み込み中....";
+            add_label_place.appendChild(label_class_name.firstChild); 
+        }
+    </script>
+
+
+</body>
+
+</html>

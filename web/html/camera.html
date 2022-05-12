@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <script type="text/javascript" src="/eel.js"></script>
+        <link rel="stylesheet" href="../css/camera.css">
+        <title>カメラ確認</title>
+
+    </head>
+    <body>
+        <!-- <div id="elapsedtime">elapsedtime</div> -->
+        <div class="main_Frag">
+        <div style="text-align: center">
+            <img id="python_video" src="./image/sample.png">
+        </div>
+
+        <div style="text-align: center">
+            <button type="submit" value="Add_Class" name="Add_Class" class="Add_Class" onclick="eel.Save_Room_pic()">写真</button>
+        </div>
+        </div>
+
+        <script>
+            
+            //eel.expose(set_elapsedtime);
+            //function set_elapsedtime(elapsedtime) {
+            //    document.getElementById("elapsedtime").innerHTML = "elapsedtime:" + elapsedtime + "s";
+            //}
+        
+            eel.expose(set_base64image);
+            function set_base64image(base64image) {
+                document.getElementById("python_video").src = base64image;
+            }
+        </script>
+    </body>
+</html>

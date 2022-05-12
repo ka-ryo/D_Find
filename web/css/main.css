@@ -1,0 +1,73 @@
+button{
+    width: 60px;
+    height: 40px;
+    font: size 20px;;
+    margin:30px 10px 20px 10px;
+    
+}
+
+.Left_Frag{
+    width: 480px;
+    height: 400px;
+    margin:60px 10px 10px 60px;
+
+}
+
+
+button.Enter{
+    position: absolute;
+    top: 4%;
+    left: 72%;
+}
+
+button.Reload{
+    position: absolute;
+    top: 4%;
+    left: 80%;
+}
+
+.long_button{
+    width: 180px;
+    height: 40px;
+}
+
+.output_obj{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    width: 416; 
+    height: 312;
+}
+
+
+
+.input_txt_class{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    width: 300px;
+    height: 40px;
+}
+
+.output_obj{
+    background-color: black;
+    display: inline-block;
+}
+
+.img_video_change{
+    position: absolute;
+    border: 1px solid;
+    border-color:black;
+    top: 72%;
+    left: 87%;
+    height: 50px;
+    width: 50px;
+}
+
+.object_video{
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    width: 416;
+    height: 312;
+}

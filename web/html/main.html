@@ -1,0 +1,227 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+     <!-- 外部スタイルシートの読み込み -->
+    <link rel="stylesheet" href="../css/main.css">
+    <title>D-Find Obj</title>
+</head>
+<body>
+    <div id="target"></div>
+
+    <div class = "Left_Frag">
+    
+    <div class="container">
+    カメラ：
+    <button type="submit" id = "ON_button"  value="False" name="Start" class="Camera" onclick="Cmera_On()">ON</button>
+    <button type="submit" id = "OFF_button" value="True" name="Stop" class ="Camera" onclick="Cmera_OFF()">OFF</button>
+    </div>
+    
+
+    <div>
+    <button class ="long_button" type="submit" value="Check_Camera" name="Check_Camera" class="Check_Camera" onclick="link_camera('camera.html')">カメラチェック</button>
+    </div>  
+
+    <div>
+    <button class ="long_button" type="submit" value="Add_Class" name="Add_Class" class="Add_Class" onclick="link_add_class('add_class.html')">クラス追加</button>
+    </div>
+
+    <div>
+    検出:
+    <button type="submit" value="Start_Swich" name="Start" class="Start_Swich" onclick="eel.Object_Recognition_function('True')">開始</button>
+    <button type="submit" value="Start_Swich" name="Stop" class="Start_Swich" onclick="eel.Object_Recognition_function('False')">停止</button>
+    </div>
+
+    </div>
+
+    <div>
+    <form class = "check_choice_class">
+        <select class="input_txt_class" id = "input_txt_class" type="text" name="a"></select>
+        <button type="button"  value="Enter" name="Enter" class="Enter" onclick="Renew_img()">決定</button>
+        <button type="button"  value="Reload" name="Reload" class="Reload" onclick="reload_classlist()">更新</button>
+    
+        <datalist id="choice_class">
+        </datalist>
+    </form>
+    </div>
+
+    <div>
+        <input type="image" src = "../img/409.png" value="img" id = "img_video_change" class="img_video_change" onclick="change_img_video(value)"></button>
+    </div>
+    <div id ='place_obj'>
+        <img id = "output_obj" class="output_obj"  src="../img/black.png">
+    </div>
+
+    </video>
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript">
+
+    //カメラスイッチON
+    function Cmera_On(){
+        eel.Camera_Switch_ON();
+        var Fragment = document.getElementById("ON_button");
+        var Fragment_value = Fragment.value
+        if (Fragment_value != "True"){
+            //押されていない時
+            Fragment_value = "True";
+            Fragment.style.background = '#FF0000';
+            document.getElementById("OFF_button").value = "False";
+            document.getElementById("OFF_button").style.background = "";
+        }
+    }
+
+    //カメラOFF
+    function Cmera_OFF(){
+        eel.Camera_Switch_OFF();
+        var Fragment = document.getElementById("OFF_button");
+        var Fragment_value = Fragment.value
+        if (Fragment_value != "True"){
+            //押されていない時
+            Fragment_value = "False";
+            Fragment.style.background = '#FF0000';
+            document.getElementById("ON_button").value = "False"; 
+            document.getElementById("ON_button").style.background = "";        
+        }
+    }
+
+    //警告表示
+    eel.expose(Camera_error)
+    function Camera_error() {
+        alert("チェックされていません");
+    }
+
+    //カメラの新規ウィンドウ
+    function link_camera(target) {
+        eel.camera_window_open(target);
+    }
+
+    //クラス追加の新規ウィンドウ
+    function link_add_class(target) {
+        eel.add_class_window_open(target);
+    }
+
+    //選択するクラスリストを更新する
+    async function reload_classlist(){
+        //リストの削除
+        var parent = document.getElementById('input_txt_class');
+        
+        if (parent.hasChildNodes()) {
+		    while (parent.childNodes.length > 0) {
+			    parent.removeChild(parent.firstChild);
+		    }
+	    }  
+
+        //挿入する場所
+        var add_Fragment = document.getElementById('input_txt_class');
+        //クラスのリストを貰う
+        var class_list = await eel.read_class_name()();
+        console.log(class_list);
+        //挿入する物
+        for(let i = 0 ; i<class_list.length;i++){
+            var radioFragment = document.createElement('option');
+            radioFragment.value = class_list[i];
+            radioFragment.text = class_list[i];
+            add_Fragment.appendChild(radioFragment);
+        }
+    }
+
+    //場所画像の更新
+    async function Renew_img(){
+        //img_video_changeの初期化
+        var Fragment = document.getElementById('img_video_change');
+        Fragment.value = "img";
+
+        //画像削除
+        var place_img_id = document.getElementById('place_obj');
+
+        while(place_img_id.firstChild){
+            place_img_id.removeChild(place_img_id.firstChild);
+            }
+
+        
+        //クラス名を取得
+        var select = document.getElementById('input_txt_class');
+        var a = select.value;
+
+        console.log(a);
+        
+
+        //画像差し込み
+        var img_fragment= document.createElement('img');
+        var file_exists = await eel.file_exists_OK("../img/"+a+".jpg")()
+
+        if(file_exists ==true){
+            img_fragment.src = "../img/"+a+".jpg";
+        }else{
+            img_fragment.src = "../img/black.png";
+        }
+        img_fragment.className ="output_obj" ;
+        place_img_id.appendChild(img_fragment);
+
+
+    }
+
+    //写真とビデオの切り替え
+    async function change_img_video(value){
+        console.log(value);
+        var Fragment = document.getElementById('img_video_change');
+        if (value == "img"){
+            //ビデオに変更
+            class_name = document.getElementById('input_txt_class').value;
+
+            //変更する場所を空ける
+            var parent = document.getElementById('place_obj');
+            while(parent.firstChild){
+                parent.removeChild(parent.firstChild);
+            }
+
+            //video挿入
+            
+
+            var file_exists = await eel.file_exists_OK('../video/'+class_name+".mp4")();
+            if(file_exists ==true){
+                //videoがある場合
+                var video_Fragment = document.createElement('video');
+                video_Fragment.src='../video/'+class_name+".mp4";
+                video_Fragment.className ="object_video";
+                video_Fragment.autoplay = "autoplay";
+                video_Fragment.muted = "muted";
+                video_Fragment.controls="controls";
+                parent.appendChild(video_Fragment);
+            }else{
+                var img_Fragment = document.createElement('img');
+                img_Fragment.className = "output_obj";
+                img_Fragment.src = "../img/black.png";
+                parent.appendChild(img_Fragment);
+            }
+            
+            Fragment.value = "video";
+        }else{
+            //画像に変更
+            class_name = document.getElementById('input_txt_class').value;
+
+            //変更する場所を空ける
+            var parent = document.getElementById('place_obj');
+            while(parent.firstChild){
+                parent.removeChild(parent.firstChild);
+            }
+
+            //画像挿入
+            var img_Fragment = document.createElement('img');
+            img_Fragment.className = "output_obj";
+            var file_exists = await eel.file_exists_OK("../img/"+class_name+".jpg")();
+            if(file_exists ==true){
+                img_Fragment.src = "../img/"+class_name+".jpg";
+            }else{
+                img_Fragment.src = "../img/black.png";
+            }
+            parent.appendChild(img_Fragment);
+
+            Fragment.value = "img";
+        }
+
+    }
+
+    </script>
+
+</body>
+</html>
