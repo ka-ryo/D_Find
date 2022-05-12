@@ -1,0 +1,1667 @@
+n02666196	abacus
+n02667093	abaya
+n02667379	abbey
+n02669723	academic gown, academic robe, judge's robe
+n02672831	accordion, piano accordion, squeeze box
+n02676566	acoustic guitar
+n02676938	acropolis
+n02680754	adjustable wrench, adjustable spanner
+n02681392	adobe, adobe brick
+n02686121	airbus
+n02686568	aircraft
+n02687172	aircraft carrier, carrier, flattop, attack aircraft carrier
+n02687423	aircraft engine
+n02687682	air cushion, air spring
+n02687821	airdock, hangar, repair shed
+n02687992	airfield, landing field, flying field, field
+n02688273	air filter, air cleaner
+n02689274	air gun, airgun, air rifle
+n02690373	airliner
+n02691156	airplane, aeroplane, plane
+n02692086	airplane propeller, airscrew, prop
+n02692232	airport, airdrome, aerodrome, drome
+n02692877	airship, dirigible
+n02693246	air terminal, airport terminal
+n02694045	aisle
+n02694426	alarm, warning device, alarm system
+n02694662	alarm clock, alarm
+n02699494	altar
+n02699629	altar, communion table, Lord's table
+n02699770	altarpiece, reredos
+n02701002	ambulance
+n02701730	American organ
+n02704645	amphibian, amphibious aircraft
+n02704792	amphibian, amphibious vehicle
+n02708093	analog clock
+n02709637	anchor chain, anchor rope
+n02709763	anchor light, riding light, riding lamp
+n02709908	AND circuit, AND gate
+n02710044	andiron, firedog, dog, dog-iron
+n02715513	anteroom, antechamber, entrance hall, hall, foyer, lobby, vestibule
+n02726305	apartment, flat
+n02727426	apiary, bee house
+n02727825	apparatus, setup
+n02728440	apparel, wearing apparel, dress, clothes
+n02729965	appliance, contraption, contrivance, convenience, gadget, gizmo, gismo, widget
+n02730930	apron
+n02731629	aqualung, Aqua-Lung, scuba
+n02732072	aquarium, fish tank, marine museum
+n02733213	arcade, colonnade
+n02733524	arch
+n02735268	arch support
+n02738535	armchair
+n02742753	arrow
+n02747177	ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+n02747802	ashtray
+n02749479	assault rifle, assault gun
+n02755823	attic
+n02755984	attic fan
+n02756098	attire, garb, dress
+n02759387	autogiro, autogyro, gyroplane
+n02761392	automaton, robot, golem
+n02761834	automobile horn, car horn, motor horn, horn, hooter
+n02762169	autopilot, automatic pilot, robot pilot
+n02762725	auxiliary boiler, donkey boiler
+n02762909	auxiliary engine, donkey engine
+n02763306	auxiliary storage, external storage, secondary storage
+n02763901	awning, sunshade, sunblind
+n02764044	ax, axe
+n02766320	baby bed, baby's bed
+n02766534	baby buggy, baby carriage, carriage, perambulator, pram, stroller, go-cart, pushchair, pusher
+n02766792	baby grand, baby grand piano, parlor grand, parlor grand piano, parlour grand, parlour grand piano
+n02767147	baby shoe
+n02767433	back, backrest
+n02767665	back
+n02768226	backboard, basketball backboard
+n02769075	background, desktop, screen background
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n02770211	back porch
+n02770585	backsaw, back saw
+n02772700	badminton racket, badminton racquet, battledore
+n02773037	bag
+n02773838	bag, traveling bag, travelling bag, grip, suitcase
+n02774152	bag, handbag, pocketbook, purse
+n02774630	baggage, luggage
+n02774921	baggage
+n02775039	baggage car, luggage van
+n02775178	baggage claim
+n02776631	bakery, bakeshop, bakehouse
+n02777292	balance beam, beam
+n02777734	balcony
+n02778456	bale
+n02778669	ball
+n02779435	ball
+n02782093	balloon
+n02782602	balloon sail
+n02783161	ballpoint, ballpoint pen, ballpen, Biro
+n02786058	Band Aid
+n02787622	banjo
+n02788021	banner, streamer
+n02788148	bannister, banister, balustrade, balusters, handrail
+n02788572	baptismal font, baptistry, baptistery, font
+n02789487	bar
+n02790669	barbecue, barbeque
+n02790996	barbell
+n02791124	barber chair
+n02791270	barbershop
+n02793495	barn
+n02794156	barometer
+n02794972	barrage balloon
+n02795169	barrel, cask
+n02796207	barrel vault
+n02796995	barroom, bar, saloon, ginmill, taproom
+n02797295	barrow, garden cart, lawn cart, wheelbarrow
+n02797692	base, pedestal, stand
+n02799071	baseball
+n02800213	baseball glove, glove, baseball mitt, mitt
+n02800497	basement, cellar
+n02801938	basket, handbasket
+n02802215	basket, basketball hoop, hoop
+n02802426	basketball
+n02802544	basketball court
+n02803809	basset horn
+n02803934	bass fiddle, bass viol, bull fiddle, double bass, contrabass, string bass
+n02804123	bass guitar
+n02804414	bassinet
+n02804610	bassoon
+n02807133	bathing cap, swimming cap
+n02807523	bath oil
+n02807616	bathrobe
+n02807731	bathroom, bath
+n02808304	bath towel
+n02808440	bathtub, bathing tub, bath, tub
+n02810471	battery, electric battery
+n02814428	beach towel
+n02814533	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon
+n02814860	beacon, lighthouse, beacon light, pharos
+n02815834	beaker
+n02815950	beam
+n02817516	bearskin, busby, shako
+n02818832	bed
+n02820210	bedclothes, bed clothing, bedding
+n02821627	bedroom, sleeping room, sleeping accommodation, chamber, bedchamber
+n02821943	bedroom furniture
+n02822220	bedspread, bedcover, bed cover, bed covering, counterpane, spread
+n02823335	beer barrel, beer keg
+n02823428	beer bottle
+n02823510	beer can
+n02823750	beer glass
+n02824058	beer mug, stein
+n02824448	bell
+n02825442	bellbottom trousers, bell-bottoms, bellbottom pants
+n02825657	bell cote, bell cot
+n02826068	bell jar, bell glass
+n02826886	bell tower
+n02827606	belt
+n02828884	bench
+n02829596	bench press
+n02831724	berth, bunk, built in bed
+n02834397	bib
+n02834778	bicycle, bike, wheel, cycle
+n02835271	bicycle-built-for-two, tandem bicycle, tandem
+n02835412	bicycle chain
+n02835915	bicycle seat, saddle
+n02836035	bicycle wheel
+n02836174	bidet
+n02837789	bikini, two-piece
+n02839351	billiard ball
+n02839592	billiard room, billiard saloon, billiard parlor, billiard parlour, billiard hall
+n02839910	bin
+n02840245	binder, ring-binder
+n02840619	binding, book binding, cover, back
+n02841063	bin liner
+n02841315	binoculars, field glasses, opera glasses
+n02842573	biplane
+n02843684	birdhouse
+n02846511	blackboard, chalkboard
+n02846619	blackboard eraser
+n02848216	blade
+n02848921	blank, dummy, blank shell
+n02849154	blanket, cover
+n02850732	blender, liquidizer, liquidiser
+n02850950	blimp, sausage balloon, sausage
+n02851099	blind, screen
+n02856013	blue chip
+n02857907	boards
+n02858304	boat
+n02859184	boater, leghorn, Panama, Panama hat, sailor, skimmer, straw hat
+n02859343	boat hook
+n02859443	boathouse
+n02860415	bobbin, spool, reel
+n02860847	bobsled, bobsleigh, bob
+n02865351	bolo tie, bolo, bola tie, bola
+n02865665	bolt
+n02866578	bomb
+n02867715	bomber
+n02869155	bone china
+n02869249	bones, castanets, clappers, finger cymbals
+n02869563	boneshaker
+n02869837	bonnet, poke bonnet
+n02870526	book
+n02870676	book bag
+n02870880	bookcase
+n02871439	bookshelf
+n02871525	bookshop, bookstore, bookstall
+n02871824	boom, microphone boom
+n02871963	boomerang, throwing stick, throw stick
+n02872752	boot
+n02873520	boot
+n02873623	boot camp
+n02873839	booth, cubicle, stall, kiosk
+n02874214	booth
+n02876657	bottle
+n02877765	bottlecap
+n02877962	bottle opener
+n02878222	bottom, freighter, merchantman, merchant ship
+n02879087	bouquet, corsage, posy, nosegay
+n02879309	boutique, dress shop
+n02879718	bow
+n02880940	bowl
+n02881193	bowl
+n02882190	bowling alley
+n02882301	bowling ball, bowl
+n02882483	bowling equipment
+n02882647	bowling pin, pin
+n02882894	bowling shoe
+n02883205	bow tie, bow-tie, bowtie
+n02883344	box
+n02884450	box, box seat
+n02884859	box beam, box girder
+n02885882	box office, ticket office, ticket booth
+n02886434	box wrench, box end wrench
+n02887489	brace, suspender, gallus
+n02889425	brake
+n02890804	brake pedal
+n02892201	brass, memorial tablet, plaque
+n02892767	brassiere, bra, bandeau
+n02894605	breakwater, groin, groyne, mole, bulwark, seawall, jetty
+n02895154	breastplate, aegis, egis
+n02897820	brick
+n02898269	brick trowel, mason's trowel
+n02898585	bridal gown, wedding gown, wedding dress
+n02898711	bridge, span
+n02899439	bridge, nosepiece
+n02902687	bristle brush
+n02906734	broom
+n02907391	Browning automatic rifle, BAR
+n02908217	brush
+n02908773	Brussels carpet
+n02909870	bucket, pail
+n02910145	bucket seat
+n02910353	buckle
+n02912065	buffet, counter, sideboard
+n02912557	buggy, roadster
+n02913152	building, edifice
+n02914991	building complex, complex
+n02916179	bulldozer, dozer
+n02916350	bullet, slug
+n02916936	bulletproof vest
+n02917067	bullet train, bullet
+n02918964	bumper car, Dodgem
+n02919414	bundle, sheaf
+n02919792	bungalow, cottage
+n02920083	bunk
+n02920164	bunk, feed bunk
+n02920259	bunk bed, bunk
+n02920369	bunker, sand trap, trap
+n02921029	bunsen burner, bunsen, etna
+n02921756	burglar alarm
+n02923129	burner
+n02924116	bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+n02925385	bush jacket
+n02925666	buskin, combat boot, desert boot, half boot, top boot
+n02927161	butcher shop, meat market
+n02927764	butter dish
+n02928608	button
+n02929289	buttress, buttressing
+n02930766	cab, hack, taxi, taxicab
+n02931417	cabaret, nightclub, night club, club, nightspot
+n02932019	cabin
+n02932400	cabin
+n02932523	cabin car, caboose
+n02932693	cabin class, second class, economy class
+n02932891	cabin cruiser, cruiser, pleasure boat, pleasure craft
+n02933112	cabinet
+n02933340	cabinet, console
+n02934451	cable car, car
+n02935658	cafe, coffeehouse, coffee shop, coffee bar
+n02936714	cage, coop
+n02939185	caldron, cauldron
+n02942349	camcorder
+n02942699	camera, photographic camera
+n02943871	camera tripod
+n02945813	camp, refugee camp
+n02946348	camper, camping bus, motor home
+n02946921	can, tin, tin can
+n02947818	candelabrum, candelabra
+n02948072	candle, taper, wax light
+n02948557	candlestick, candle holder
+n02949202	cane
+n02949542	canister, cannister, tin
+n02950632	cannon
+n02950826	cannon
+n02951358	canoe
+n02951585	can opener, tin opener
+n02951703	canopic jar, canopic vase
+n02951843	canopy
+n02952109	canopy
+n02952237	canopy
+n02952374	canteen
+n02953673	canvas, canvass
+n02954163	canvas tent, canvas, canvass
+n02954340	cap
+n02954938	cap
+n02955065	cap
+n02956795	cap opener
+n02958343	car, auto, automobile, machine, motorcar
+n02959942	car, railcar, railway car, railroad car
+n02960352	car, elevator car
+n02961035	caravansary, caravanserai, khan, caravan inn
+n02963159	cardigan
+n02963302	card index, card catalog, card catalogue
+n02963821	car door
+n02964075	card table
+n02964196	card table
+n02964634	cargo area, cargo deck, cargo hold, hold, storage area
+n02965783	car mirror
+n02966193	carousel, carrousel, merry-go-round, roundabout, whirligig
+n02966687	carpenter's kit, tool kit
+n02968333	carrel, carrell, cubicle, stall
+n02970685	car seat
+n02970849	cart
+n02971167	car tire, automobile tire, auto tire, rubber tire
+n02971356	carton
+n02971579	car train
+n02972714	cartridge extractor, cartridge remover, extractor
+n02973236	cartwheel
+n02973904	carving knife
+n02974003	car wheel
+n02974348	caryatid
+n02975212	case, display case, showcase, vitrine
+n02976123	case knife, sheath knife
+n02976249	case knife
+n02976815	cash bar
+n02977058	cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+n02977438	cash register, register
+n02978881	cassette
+n02979186	cassette player
+n02979836	cast, plaster cast, plaster bandage
+n02980441	castle
+n02981792	catamaran
+n02984061	cathedral
+n02988304	CD player
+n02990373	ceiling
+n02991048	cell, electric cell
+n02991302	cell, jail cell, prison cell
+n02992211	cello, violoncello
+n02992529	cellular telephone, cellular phone, cellphone, cell, mobile phone
+n02993194	cenotaph, empty tomb
+n02993546	center, centre
+n02995998	centrifuge, extractor, separator
+n02997391	ceramic
+n02997607	ceramic ware
+n02998563	cesspool, cesspit, sink, sump
+n02999410	chain
+n03000134	chainlink fence
+n03000247	chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour
+n03000684	chain saw, chainsaw
+n03001627	chair
+n03002096	chair
+n03003091	chalk
+n03004275	chamberpot, potty, thunder mug
+n03011741	checkout, checkout counter
+n03012159	cheeseboard, cheese tray
+n03012897	chemical plant
+n03013580	chemise, shimmy, shift, slip, teddy
+n03014440	chessman, chess piece
+n03014705	chest
+n03015254	chest of drawers, chest, bureau, dresser
+n03016737	chicken yard, hen yard, chicken run, fowl run
+n03016953	chiffonier, commode
+n03017168	chime, bell, gong
+n03017698	chimney breast
+n03017835	chimney corner, inglenook
+n03018209	china
+n03018349	china cabinet, china closet
+n03018712	Chinese lantern
+n03020034	chip, microchip, micro chip, silicon chip, microprocessor chip
+n03020416	chip, poker chip
+n03020692	chisel
+n03025250	chopine, platform
+n03026506	Christmas stocking
+n03028079	church, church building
+n03028596	church bell
+n03028785	church hat
+n03029197	church tower
+n03032252	cinema, movie theater, movie theatre, movie house, picture palace
+n03033986	circuit board, circuit card, board, card, plug-in, add-in
+n03034663	circular saw, buzz saw
+n03035252	circus tent, big top, round top, top
+n03035510	cistern
+n03035715	cistern, water tank
+n03036022	city hall
+n03036244	city university
+n03036469	civilian clothing, civilian dress, civilian garb, plain clothes
+n03038685	classroom, schoolroom
+n03039493	claymore
+n03041632	cleaver, meat cleaver, chopper
+n03042490	cliff dwelling
+n03044934	clipper
+n03045698	cloak
+n03046257	clock
+n03046921	clock radio
+n03047690	clog, geta, patten, sabot
+n03049457	closet
+n03049924	cloth cap, flat cap
+n03050546	clothes closet, clothespress
+n03051396	clothes tree, coat tree, coat stand
+n03052464	clothing store, haberdashery, haberdashery store, mens store
+n03055670	coach, four-in-hand, coach-and-four
+n03057021	coat
+n03057920	coat hanger, clothes hanger, dress hanger
+n03058107	coating, coat
+n03062245	cocktail shaker
+n03062985	coffee can
+n03063073	coffee cup
+n03063599	coffee mug
+n03063689	coffeepot
+n03063968	coffee table, cocktail table
+n03064758	coffin, casket
+n03065424	coil, spiral, volute, whorl, helix
+n03067212	cold chisel, set chisel
+n03067339	cold cream, coldcream, face cream, vanishing cream
+n03067518	cold frame
+n03068998	collar
+n03071160	colonnade
+n03072201	color television, colour television, color television system, colour television system, color TV, colour TV
+n03073977	column, pillar
+n03074380	column, pillar
+n03075097	comb
+n03075370	combination lock
+n03075768	comforter, pacifier, baby's dummy, teething ring
+n03079136	compact, compact car
+n03079494	compact-disk burner, CD burner
+n03080497	compass
+n03082979	computer, computing machine, computing device, data processor, electronic computer, information processing system
+n03085013	computer keyboard, keypad
+n03085219	computer monitor
+n03085602	computer screen, computer display
+n03086457	concert grand, concert piano
+n03087816	condenser microphone, capacitor microphone
+n03089477	cone clutch, cone friction clutch
+n03089624	confectionery, confectionary, candy store
+n03089753	conference center, conference house
+n03089879	conference room
+n03090000	conference table, council table, council board
+n03092476	console
+n03092656	console
+n03092883	console table, console
+n03095699	container ship, containership, container vessel
+n03096960	control, controller
+n03097362	control center
+n03097673	control key, command key
+n03098140	control panel, instrument panel, control board, board, panel
+n03098688	control room
+n03100240	convertible
+n03100346	convertible, sofa bed
+n03101517	cookie cutter
+n03101664	cookie jar, cooky jar
+n03101796	cookie sheet, baking tray
+n03106722	cord, corduroy
+n03109150	corkscrew, bottle screw
+n03110669	cornet, horn, trumpet, trump
+n03113657	costume
+n03115180	cotton
+n03116530	counter
+n03116767	counter, tabulator
+n03118969	country house
+n03119203	country store, general store, trading post
+n03119396	coupe
+n03120198	court, courtyard
+n03120491	court
+n03120778	court, courtroom
+n03122073	covered bridge
+n03122202	covered couch
+n03122295	covered wagon, Conestoga wagon, Conestoga, prairie wagon, prairie schooner
+n03124043	cowboy boot
+n03124170	cowboy hat, ten-gallon hat
+n03124590	cow pen, cattle pen, corral
+n03125057	CPU board, mother board
+n03125729	cradle
+n03126385	crampon, crampoon, climbing iron, climber
+n03126707	crane
+n03127747	crash helmet
+n03127925	crate
+n03128519	cream, ointment, emollient
+n03129001	cream pitcher, creamer
+n03131574	crib, cot
+n03133415	crock, earthenware jar
+n03133878	Crock Pot
+n03134739	croquet ball
+n03135532	cross
+n03138669	crown, diadem
+n03141823	crutch
+n03142679	crystal, watch crystal, watch glass
+n03143572	crystal microphone
+n03145522	cue, cue stick, pool cue, pool stick
+n03145719	cue ball
+n03146219	cuirass
+n03147509	cup
+n03148324	cupboard, closet
+n03148518	cup hook
+n03149135	curb, curb bit
+n03149401	curb roof
+n03150511	curling iron
+n03151077	curtain, drape, drapery, mantle, pall
+n03154073	cutter, cutlery, cutting tool
+n03154446	cutting implement
+n03159640	dais, podium, pulpit, rostrum, ambo, stump, soapbox
+n03160309	dam, dike, dyke
+n03166809	death house, death row
+n03167978	deck
+n03168107	deck
+n03168217	deck chair, beach chair
+n03173387	delicatessen, deli, food shop
+n03173929	delivery truck, delivery van, panel truck
+n03179701	desk
+n03179910	desk phone
+n03180011	desktop computer
+n03180969	detector, sensor, sensing element
+n03187595	dial telephone, dial phone
+n03188531	diaper, nappy, napkin
+n03196062	digital camera
+n03196217	digital clock
+n03197337	digital watch
+n03200231	dining area
+n03200357	dining car, diner, dining compartment, buffet car
+n03200906	dining-room furniture
+n03201035	dining-room table
+n03201208	dining table, board
+n03201895	dinner napkin
+n03201996	dinner pail, dinner bucket
+n03204558	DIP switch, dual inline package switch
+n03205143	directional microphone
+n03206282	disco, discotheque
+n03206908	dish
+n03207305	dish, dish aerial, dish antenna, saucer
+n03207743	dishrag, dishcloth
+n03207941	dishwasher, dish washer, dishwashing machine
+n03208556	disk, disc
+n03208938	disk brake, disc brake
+n03211117	display, video display
+n03211616	display panel, display board, board
+n03211789	display window, shop window, shopwindow, show window
+n03216710	Dixie cup, paper cup
+n03216828	dock, dockage, docking facility
+n03218198	dogsled, dog sled, dog sleigh
+n03220237	dolmen, cromlech, portal tomb
+n03220513	dome
+n03220692	dome, domed stadium, covered stadium
+n03221720	door
+n03222176	door
+n03222318	door
+n03222516	doorbell, bell, buzzer
+n03223299	doormat, welcome mat
+n03223686	doorsill, doorstep, threshold
+n03224893	dormitory, dorm, residence hall, hall, student residence
+n03225988	double bed
+n03226254	double boiler, double saucepan
+n03226880	double door
+n03227184	double-hung window
+n03231368	drafting table, drawing table
+n03232543	drain basket
+n03233905	drawer
+n03234952	drawing chalk
+n03235042	drawing room, withdrawing room
+n03235180	drawing room
+n03236580	dredging bucket
+n03237212	dress blues, dress whites
+n03237340	dresser
+n03238586	dressing table, dresser, vanity, toilet table
+n03238879	dress shirt, evening shirt
+n03239726	drill
+n03240683	drilling platform, offshore rig
+n03241335	drinking fountain, water fountain, bubbler
+n03244047	driver, number one wood
+n03244775	driving iron, one iron
+n03245724	drone, drone pipe, bourdon
+n03245889	drone, pilotless aircraft, radio-controlled aircraft
+n03246454	drop curtain, drop cloth, drop
+n03249569	drum, membranophone, tympan
+n03249956	drum, metal drum
+n03250847	drumstick
+n03251533	dry dock, drydock, graving dock
+n03252637	dry wall, dry-stone wall
+n03252787	dual scan display
+n03254737	dulcimer
+n03255030	dumbbell
+n03256166	dump truck, dumper, tipper truck, tipper lorry, tip truck, tipper
+n03259280	Dutch oven
+n03259401	Dutch oven
+n03259505	dwelling, home, domicile, abode, habitation, dwelling house
+n03261776	earphone, earpiece, headphone, phone
+n03262809	easel
+n03262932	easy chair, lounge chair, overstuffed chair
+n03266371	eggbeater, eggwhisk
+n03267113	eight ball
+n03268790	electric, electric automobile, electric car
+n03270854	electric blanket
+n03271030	electric chair, chair, death chair, hot seat
+n03271574	electric fan, blower
+n03272010	electric guitar
+n03272239	electric heater, electric fire
+n03272562	electric locomotive
+n03273551	electric organ, electronic organ, Hammond organ, organ
+n03273740	electric range
+n03273913	electric refrigerator, fridge
+n03278248	electronic equipment
+n03281145	elevator, lift
+n03281524	elevator
+n03282060	embankment
+n03282295	embassy
+n03287733	engine
+n03290653	entertainment center
+n03291819	envelope
+n03294048	equipment
+n03296328	escarpment, escarp, scarp, protective embankment
+n03297495	espresso maker
+n03301568	euphonium
+n03302671	exercise bike, exercycle
+n03302790	exercise device
+n03308152	extractor
+n03309356	eyepatch, patch
+n03309808	fabric, cloth, material, textile
+n03314780	face powder
+n03314884	face veil
+n03316105	facsimile, facsimile machine, fax
+n03316406	factory, mill, manufacturing plant, manufactory
+n03320519	fancy dress, masquerade, masquerade costume
+n03321419	fanjet, fan-jet, turbofan, turbojet
+n03325088	faucet, spigot
+n03325584	feather boa, boa
+n03327234	fence, fencing
+n03329302	Ferris wheel
+n03329663	ferry, ferryboat
+n03333129	field glass, glass, spyglass
+n03333610	field house, sports arena
+n03335030	fighter, fighter aircraft, attack aircraft
+n03337140	file, file cabinet, filing cabinet
+n03337383	file folder
+n03337494	file server
+n03338821	film, photographic film
+n03339643	filter
+n03341153	finger
+n03341606	finger bowl
+n03343354	fipple flute, fipple pipe, recorder, vertical flute
+n03343560	fire
+n03343737	fire alarm, smoke alarm
+n03343853	firearm, piece, small-arm
+n03344305	fire bell
+n03344393	fireboat
+n03345487	fire engine, fire truck
+n03346135	fire iron
+n03347037	fire screen, fireguard
+n03347617	fire tower
+n03351262	fishing boat, fishing smack, fishing vessel
+n03351979	fishing rod, fishing pole
+n03354903	flag
+n03355925	flagpole, flagstaff
+n03358172	flash, photoflash, flash lamp, flashgun, flashbulb, flash bulb
+n03358726	flash camera
+n03359137	flashlight, torch
+n03359436	flash memory
+n03360133	flat arch, straight arch
+n03360622	flat bench
+n03364156	flipper, fin
+n03365231	floatplane, pontoon plane
+n03365374	flood, floodlight, flood lamp, photoflood
+n03365991	floor, level, storey, story
+n03366823	floor cover, floor covering
+n03366974	floor joist
+n03367059	floor lamp
+n03367410	florist, florist shop, flower store
+n03370387	fluorescent lamp
+n03372029	flute, transverse flute
+n03376159	fold, sheepfold, sheep pen, sheepcote
+n03376595	folding chair
+n03376771	folding door, accordion door
+n03376938	folding saw
+n03379051	football helmet
+n03379828	footbridge, overcrossing, pedestrian bridge
+n03380724	footstool, footrest, ottoman, tuffet
+n03382292	forecourt
+n03384167	fork
+n03384352	forklift
+n03388043	fountain
+n03388183	fountain pen
+n03388549	four-poster
+n03390983	frame, framing
+n03393017	free house
+n03393912	freight car
+n03394149	freight elevator, service elevator
+n03394649	French door
+n03394916	French horn, horn
+n03395256	French polish, French polish shellac
+n03395514	French window
+n03399677	front porch
+n03400231	frying pan, frypan, skillet
+n03402941	funeral home, funeral parlor, funeral parlour, funeral chapel, funeral church, funeral-residence
+n03404251	fur coat
+n03405725	furniture, piece of furniture, article of furniture
+n03409393	gable, gable end, gable wall
+n03412058	gallery, art gallery, picture gallery
+n03414162	game equipment
+n03416489	garage
+n03416640	garage, service department
+n03416775	Garand rifle, Garand, M-1, M-1 rifle
+n03417042	garbage truck, dustcart
+n03418242	garden tool, lawn tool
+n03420801	garrison cap, overseas cap
+n03422072	gas burner, gas jet
+n03422771	gas engine
+n03423306	gas gun
+n03423479	gas heater
+n03424325	gasmask, respirator, gas helmet
+n03425241	gas oven
+n03425413	gas pump, gasoline pump, petrol pump, island dispenser
+n03425595	gas range, gas stove, gas cooker
+n03426134	gas tank, gasoline tank, petrol tank
+n03427296	gate
+n03431243	gear, gear mechanism
+n03431745	gearing, gear, geartrain, power train, train
+n03435593	geodesic dome
+n03436417	gift shop, novelty shop
+n03436891	gig
+n03438257	glass, drinking glass
+n03438863	glasses case
+n03441112	glove
+n03442756	goal
+n03443371	goblet
+n03443912	goggles
+n03444034	go-kart
+n03445777	golf ball
+n03445924	golfcart, golf cart
+n03447447	gondola
+n03447721	gong, tam-tam
+n03449564	government building
+n03450230	gown
+n03450516	gown, robe
+n03452741	grand piano, grand
+n03457902	greenhouse, nursery, glasshouse
+n03459591	grill, grille, grillwork
+n03459775	grille, radiator grille
+n03461385	grocery store, grocery, food market, market
+n03461882	groined vault
+n03462747	ground, earth
+n03463381	ground floor, first floor, ground level
+n03467068	guillotine
+n03467517	guitar
+n03467796	guitar pick
+n03467984	gun
+n03471779	guy, guy cable, guy wire, guy rope
+n03474779	hacksaw, hack saw, metal saw
+n03476684	hair slide
+n03476991	hair spray
+n03478589	half track
+n03478756	hall
+n03478907	hall
+n03481172	hammer
+n03482405	hamper
+n03482523	hand
+n03483316	hand blower, blow dryer, blow drier, hair dryer, hair drier
+n03483823	hand calculator, pocket calculator
+n03484083	handcart, pushcart, cart, go-cart
+n03484931	hand glass, simple microscope, magnifying glass
+n03485198	hand glass, hand mirror
+n03485407	hand-held computer, hand-held microcomputer
+n03485794	handkerchief, hankie, hanky, hankey
+n03489162	hand tool
+n03490006	hand towel, face towel
+n03490119	hand truck, truck
+n03490884	hanger
+n03492542	hard disc, hard disk, fixed disk
+n03492922	hard hat, tin hat, safety hat
+n03494278	harmonica, mouth organ, harp, mouth harp
+n03494537	harmonium, organ, reed organ
+n03495258	harp
+n03496892	harvester, reaper
+n03497657	hat, chapeau, lid
+n03498781	hatchback
+n03498962	hatchet
+n03499907	Hawaiian guitar, steel guitar
+n03500389	hay bale
+n03500699	haymaker, hay conditioner
+n03501288	head
+n03501614	head
+n03502200	headboard
+n03502331	head covering, veil
+n03504723	headquarters, central office, main office, home office, home base
+n03505504	headscarf
+n03505667	headset
+n03506560	hearing aid, ear trumpet
+n03508101	heater, warmer
+n03510244	heat sink
+n03511175	hedge, hedgerow
+n03511333	hedge trimmer
+n03512147	helicopter, chopper, whirlybird, eggbeater
+n03513137	helmet
+n03517647	hideaway, retreat
+n03517899	high altar
+n03518829	high-hat cymbal, high hat
+n03521675	hipflask, pocket flask
+n03522100	hip roof, hipped roof
+n03527444	holster
+n03528100	home, nursing home, rest home
+n03529860	home theater, home theatre
+n03530642	honeycomb
+n03532342	hook
+n03532672	hook, claw
+n03532919	hook
+n03534580	hoopskirt, crinoline
+n03535780	horizontal bar, high bar
+n03538037	horse, gymnastic horse
+n03538406	horse cart, horse-cart
+n03539433	horseshoe, shoe
+n03540090	hose
+n03540595	hospital, infirmary
+n03540914	hospital bed
+n03541696	hostel, hostelry, inn, lodge, auberge
+n03541923	hot-air balloon
+n03542333	hotel
+n03543254	hot plate, hotplate
+n03543394	hot rod, hot-rod
+n03544143	hourglass
+n03544238	hour hand, little hand
+n03544360	house
+n03545150	house
+n03545756	house of cards, cardhouse, card-house, cardcastle
+n03546340	housing, lodging, living accommodations
+n03547054	hovel, hut, hutch, shack, shanty
+n03557692	ice maker
+n03557840	ice pack, ice bag
+n03558176	ice rink, ice-skating rink, ice
+n03558404	ice skate
+n03561169	ignition switch
+n03563200	impact printer
+n03565830	in-basket, in-tray
+n03571625	ink bottle, inkpot
+n03571942	ink-jet printer
+n03574816	instrument
+n03577672	interceptor
+n03579982	internal-combustion engine, ICE
+n03580615	internet, net, cyberspace
+n03581125	intersection, crossroad, crossway, crossing, carrefour
+n03584254	iPod
+n03584400	video iPod
+n03584829	iron, smoothing iron
+n03585073	iron
+n03589791	jacket
+n03590306	jacket
+n03590475	jacket
+n03590841	jack-o'-lantern
+n03593526	jar
+n03594734	jean, blue jean, denim
+n03594945	jeep, landrover
+n03595614	jersey, T-shirt, tee shirt
+n03595860	jet, jet plane, jet-propelled plane
+n03596543	jetliner
+n03598930	jigsaw puzzle
+n03599486	jinrikisha, ricksha, rickshaw
+n03602883	joystick
+n03604311	jumbojet, jumbo jet
+n03604400	jumper, pinafore, pinny
+n03610682	kepi, peaked cap, service cap, yachting cap
+n03612814	kettle, boiler
+n03612965	kettle, kettledrum, tympanum, tympani, timpani
+n03613294	key
+n03614007	keyboard
+n03614532	keyboard instrument
+n03615655	khimar
+n03617480	kimono
+n03618101	king
+n03618678	king post
+n03619396	kit, outfit
+n03619890	kitchen
+n03621694	kite balloon
+n03623198	knee pad
+n03623556	knife
+n03624134	knife
+n03627232	knot
+n03630262	lab bench, laboratory bench
+n03630383	lab coat, laboratory coat
+n03631177	lace
+n03632577	ladder-back
+n03632729	ladder-back, ladder-back chair
+n03632852	ladder truck, aerial ladder truck
+n03633091	ladle
+n03634034	lake dwelling, pile dwelling
+n03636248	lamp
+n03636649	lamp
+n03637318	lampshade, lamp shade
+n03639497	land line, landline
+n03642806	laptop, laptop computer
+n03643253	laser, optical maser
+n03643737	laser printer
+n03648219	laundry, wash, washing, washables
+n03648431	laundry cart
+n03649674	lawn chair, garden chair
+n03649797	lawn furniture
+n03649909	lawn mower, mower
+n03652389	leaf spring
+n03652932	leash, tether, lead
+n03653583	lectern, reading desk
+n03654826	leg
+n03657121	lens cap, lens cover
+n03658185	letter opener, paper knife, paperknife
+n03661043	library
+n03661340	lid
+n03662601	lifeboat
+n03662719	life buoy, lifesaver, life belt, life ring
+n03665366	light, light source
+n03665924	light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light bulb
+n03666591	lighter, light, igniter, ignitor
+n03670208	limousine, limo
+n03672827	line printer, line-at-a-time printer
+n03673027	liner, ocean liner
+n03676483	lipstick, lip rouge
+n03678558	litterbin, litter basket, litter-basket
+n03680355	Loafer
+n03682487	lock
+n03684143	lock-gate
+n03684823	locomotive, engine, locomotive engine, railway locomotive
+n03686130	loft, attic, garret
+n03686924	log cabin
+n03688066	long iron
+n03688605	long trousers, long pants
+n03690938	lotion
+n03691459	loudspeaker, speaker, speaker unit, loudspeaker system, speaker system
+n03691817	lounge, waiting room, waiting area
+n03692522	loupe, jeweler's loupe
+n03696065	luggage compartment, automobile trunk, trunk
+n03696301	luggage rack, roof rack
+n03697007	lumbermill, sawmill
+n03699975	machine
+n03700963	machine, simple machine
+n03701391	machine gun
+n03704549	magazine rack
+n03706229	magnetic compass
+n03706653	magnetic disk, magnetic disc, disk, disc
+n03709823	mailbag, postbag
+n03710193	mailbox, letter box
+n03710637	maillot
+n03710721	maillot, tank suit
+n03711044	mail train
+n03714235	makeup, make-up, war paint
+n03715892	mallet
+n03717622	manhole cover
+n03718335	manometer
+n03720891	maraca
+n03721047	marble
+n03721384	marimba, xylophone
+n03722288	marketplace, market place, mart, market
+n03724066	mascara
+n03724870	mask
+n03725600	Mason jar
+n03726760	mast
+n03726993	mast
+n03727946	mat, gym mat
+n03728437	match, lucifer, friction match
+n03729826	matchstick
+n03729951	material
+n03731019	mattock
+n03733131	maypole
+n03733281	maze, labyrinth
+n03733805	measuring cup
+n03735637	measuring stick, measure, measuring rod
+n03735963	meat counter
+n03736147	meat hook
+n03736470	meat thermometer
+n03738066	mechanical piano, Pianola, player piano
+n03738472	mechanism
+n03742019	medicine ball
+n03742115	medicine chest, medicine cabinet
+n03743016	megalith, megalithic structure
+n03743902	memorial, monument
+n03744276	memory, computer memory, storage, computer storage, store, memory board
+n03744684	memory chip
+n03746005	menorah
+n03746330	man's clothing
+n03748162	mercantile establishment, retail store, sales outlet, outlet
+n03751269	mess jacket, monkey jacket, shell jacket
+n03751757	metal detector
+n03752185	metal screw
+n03752398	metal wood
+n03752922	meteorological balloon
+n03757604	metronome
+n03758089	mezzanine, mezzanine floor, entresol
+n03758220	mezzanine, first balcony
+n03759954	microphone, mike
+n03760671	microscope
+n03761084	microwave, microwave oven
+n03763968	military uniform
+n03764736	milk can
+n03765128	milking stool
+n03765561	mill, grinder, milling machinery
+n03766508	millinery, hat shop
+n03769881	minibus
+n03770439	miniskirt, mini
+n03770679	minivan
+n03772584	minute hand, big hand
+n03773035	mirror
+n03773504	missile
+n03775071	mitten
+n03775546	mixing bowl
+n03775636	mixing faucet
+n03776460	mobile home, manufactured home
+n03777568	Model T
+n03777754	modem
+n03781244	monastery
+n03781683	money belt
+n03781787	monitor
+n03782006	monitor
+n03782190	monitor, monitoring device
+n03783873	monoplane
+n03784793	mooring tower, mooring mast
+n03785016	moped
+n03786096	morning dress
+n03786621	Morris chair
+n03786901	mortar
+n03787032	mortarboard
+n03788195	mosque
+n03788365	mosquito net
+n03789400	motion-picture film, movie film, cine-film
+n03790230	motorboat, powerboat
+n03790512	motorcycle, bike
+n03790755	motor hotel, motor inn, motor lodge, tourist court, court
+n03790953	motorized wheelchair
+n03791053	motor scooter, scooter
+n03792048	mound, hill
+n03792334	mound, hill, pitcher's mound
+n03792782	mountain bike, all-terrain bike, off-roader
+n03792972	mountain tent
+n03793489	mouse, computer mouse
+n03793850	mouse button
+n03794056	mousetrap
+n03796401	moving van
+n03797390	mug
+n03798610	multiengine airplane, multiengine plane
+n03799375	multistage rocket, step rocket
+n03800933	musical instrument, instrument
+n03801353	music box, musical box
+n03801533	music hall, vaudeville theater, vaudeville theatre
+n03801671	music school
+n03801760	music stand, music rack
+n03801880	music stool, piano stool
+n03802228	musket ball, ball
+n03803284	muzzle
+n03804744	nail
+n03805280	nailfile
+n03805725	nail polish, nail enamel, nail varnish
+n03807537	napkin, table napkin, serviette
+n03809312	narrowbody aircraft, narrow-body aircraft, narrow-body
+n03814639	neck brace
+n03814906	necklace
+n03815615	necktie, tie
+n03816136	needle
+n03819336	nest
+n03819595	net, network, mesh, meshing, meshwork
+n03819994	net
+n03820154	net
+n03820318	net
+n03822767	Newtonian telescope, Newtonian reflector
+n03825442	ninepin ball, skittle ball
+n03825788	nipple
+n03826186	Nissen hut, Quonset hut
+n03831757	nose flute
+n03832673	notebook, notebook computer
+n03834040	nuclear reactor, reactor
+n03836062	nursery, baby's room
+n03837422	oar
+n03837869	obelisk
+n03838899	oboe, hautboy, hautbois
+n03840681	ocarina, sweet potato
+n03841143	odometer, hodometer, mileometer, milometer
+n03841666	office, business office
+n03842012	office building, office block
+n03842156	office furniture
+n03842377	off-line equipment, auxiliary equipment
+n03843555	oil filter
+n03844815	oilskin, slicker
+n03845190	oil tanker, oiler, tanker, tank ship
+n03846677	omelet pan, omelette pan
+n03847471	onion dome
+n03847823	open-air market, open-air marketplace, market square
+n03848033	open circuit
+n03848168	open-end wrench, tappet wrench
+n03850492	operating table
+n03851787	optical disk, optical disc
+n03852688	optical telescope
+n03853924	ordinary, ordinary bicycle
+n03854065	organ, pipe organ
+n03854815	organ pipe, pipe, pipework
+n03855604	O ring
+n03857828	oscilloscope, scope, cathode-ray oscilloscope, CRO
+n03858418	ottoman, pouf, pouffe, puff, hassock
+n03859958	outfit, getup, rig, turnout
+n03861842	outside mirror
+n03862676	oven
+n03863108	overall
+n03866082	overskirt
+n03868242	oxcart
+n03868863	oxygen mask
+n03870546	pack
+n03870672	pack
+n03870980	pack, face pack
+n03871628	packet
+n03873416	paddle, boat paddle
+n03874293	paddlewheel, paddle wheel
+n03874599	padlock
+n03874823	page printer, page-at-a-time printer
+n03875218	paint, pigment
+n03875806	paintball
+n03876231	paintbrush
+n03877472	pajama, pyjama, pj's, jammies
+n03877674	pajama, pyjama
+n03877845	palace
+n03879456	pallet
+n03880531	pan, cooking pan
+n03884397	panpipe, pandean pipe, syrinx
+n03885535	pantry, larder, buttery
+n03886762	paper clip, paperclip, gem clip
+n03887697	paper towel
+n03888257	parachute, chute
+n03888605	parallel bars, bars
+n03891251	park bench
+n03891332	parking meter
+n03894379	partition, divider
+n03894677	parts bin
+n03895866	passenger car, coach, carriage
+n03896419	passenger van
+n03897943	patch
+n03899768	patio, terrace
+n03900194	patrol boat, patrol ship
+n03900979	pavilion, marquee
+n03902125	pay-phone, pay-station
+n03903424	pedal, treadle, foot pedal, foot lever
+n03903868	pedestal, plinth, footstall
+n03904060	pedestal table
+n03905947	peg
+n03906997	pen
+n03908204	pencil
+n03908618	pencil box, pencil case
+n03908714	pencil sharpener
+n03909406	pendulum clock
+n03911513	penitentiary, pen
+n03911767	penlight
+n03912218	pennywhistle, tin whistle, whistle
+n03916031	perfume, essence
+n03920288	Petri dish
+n03920867	pew, church bench
+n03924679	photocopier
+n03926412	photographic paper, photographic material
+n03928116	piano, pianoforte, forte-piano
+n03928589	piano action
+n03928814	piano keyboard, fingerboard, clavier
+n03929091	piccolo
+n03929660	pick, plectrum, plectron
+n03929855	pickelhaube
+n03930313	picket fence, paling
+n03930630	pickup, pickup truck
+n03931044	picture, image, icon, ikon
+n03931885	picture hat
+n03931980	picture rail
+n03933933	pier
+n03935335	piggy bank, penny bank
+n03936466	pile driver
+n03937543	pill bottle
+n03938244	pillow
+n03938401	pillow block
+n03938522	pillow lace, bobbin lace
+n03939062	pilot bit
+n03939178	pilot boat
+n03939565	pilot engine
+n03939844	pilot light, pilot lamp, indicator lamp
+n03940256	pin
+n03940894	pin, flag
+n03941417	pinball machine, pin table
+n03942813	ping-pong ball
+n03943115	pinion
+n03944341	pinwheel
+n03945459	tabor pipe
+n03945615	pipe
+n03945928	pipe cleaner
+n03946076	pipe cutter
+n03947888	pirate, pirate ship
+n03948459	pistol, handgun, side arm, shooting iron
+n03950228	pitcher, ewer
+n03950647	pitch pipe
+n03953020	place of business, business establishment
+n03953416	place of worship, house of prayer, house of God, house of worship
+n03954731	plane, carpenter's plane, woodworking plane
+n03956157	planetarium
+n03956922	plant, works, industrial plant
+n03958227	plastic bag
+n03959701	plate, scale, shell
+n03960374	plate, collection plate
+n03960490	plate
+n03961711	plate rack
+n03962852	platform bed
+n03962932	platform rocker
+n03963645	playground
+n03964495	playpen, pen
+n03967562	plow, plough
+n03967942	plug, stopper, stopple
+n03970156	plunger, plumber's helper
+n03972524	pocket
+n03973628	pocketknife, pocket knife
+n03974915	point-and-shoot camera
+n03976467	Polaroid camera, Polaroid Land camera
+n03976657	pole
+n03977158	pole
+n03977592	police boat
+n03977966	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n03978686	polo mallet, polo stick
+n03978966	polo shirt, sport shirt
+n03980478	pommel horse, side horse
+n03980874	poncho
+n03982232	pool ball
+n03982430	pool table, billiard table, snooker table
+n03983396	pop bottle, soda bottle
+n03985232	portable computer
+n03988170	post
+n03989777	post horn
+n03989898	posthouse, post house
+n03990474	pot
+n03991062	pot, flowerpot
+n03991646	potentiometer, pot
+n03992509	potter's wheel
+n03992703	pottery, clayware
+n03993703	pound, dog pound
+n03995265	power cord
+n03995372	power drill
+n03996004	power pack
+n03998194	prayer rug, prayer mat
+n04000311	press, printing press
+n04000592	press box
+n04000998	press of sail, press of canvas
+n04003241	Primus stove, Primus
+n04004475	printer, printing machine
+n04004767	printer
+n04004990	printer cable
+n04005630	prison, prison house
+n04008385	production line, assembly line, line
+n04008634	projectile, missile
+n04009552	projector
+n04011827	propeller, propellor
+n04012482	propjet, turboprop, turbo-propeller plane
+n04018399	public house, pub, saloon, pothouse, gin mill, taphouse
+n04018667	public toilet, comfort station, public convenience, convenience, public lavatory, restroom, toilet facility, wash room
+n04019541	puck, hockey puck
+n04020298	pulley, pulley-block, pulley block, block
+n04021028	pullover, slipover
+n04021798	pump
+n04022434	pump action, slide action
+n04023962	punching bag, punch bag, punching ball, punchball
+n04025508	pup tent, shelter tent
+n04026417	purse
+n04026918	push broom
+n04027023	push button, push, button
+n04028315	puzzle
+n04028581	pylon, power pylon
+n04028764	pylon
+n04030274	pyx, pix, pyx chest, pix chest
+n04033901	quill, quill pen
+n04033995	quilt, comforter, comfort, puff
+n04036303	QWERTY keyboard
+n04037443	racer, race car, racing car
+n04037964	racing boat
+n04038440	rack, stand
+n04038727	rack
+n04039381	racket, racquet
+n04040759	radiator
+n04041544	radio, wireless
+n04041747	radio antenna, radio aerial
+n04043733	radio receiver, receiving set, radio set, radio, tuner, wireless
+n04044716	radio telescope, radio reflector
+n04045255	radome, radar dome
+n04045941	rag, shred, tag, tag end, tatter
+n04046590	rail
+n04046974	rail fence
+n04047401	railing, rail
+n04047733	railing
+n04047834	railroad bed
+n04049303	rain barrel
+n04050066	rake
+n04051825	rampart, bulwark, wall
+n04054670	rasp, wood file
+n04058721	read/write head, head
+n04059947	rearview mirror
+n04061681	reception desk
+n04061969	recess, niche
+n04063868	recording
+n04064401	record player, phonograph
+n04065272	recreational vehicle, RV, R.V.
+n04065789	recycling bin
+n04065909	recycling plant
+n04066270	red carpet
+n04067472	reel
+n04067658	reel
+n04069434	reflex camera
+n04070727	refrigerator, icebox
+n04070964	refrigerator car
+n04074963	remote control, remote
+n04075291	remote terminal, link-attached terminal, remote station, link-attached station
+n04081281	restaurant, eating house, eating place, eatery
+n04086273	revolver, six-gun, six-shooter
+n04087709	ribbed vault
+n04090263	rifle
+n04095210	river boat
+n04096066	road, route
+n04097373	roadster, runabout, two-seater
+n04098399	rock bit, roller bit
+n04098795	rocker, cradle
+n04099429	rocket, projectile
+n04099969	rocking chair, rocker
+n04101375	roll
+n04102037	in-line skate
+n04102406	roller coaster, big dipper, chute-the-chute
+n04105068	roof
+n04105893	room
+n04107743	room light
+n04108268	rope
+n04108822	rope bridge
+n04108999	rope tow
+n04111531	rotisserie
+n04113765	round arch
+n04114301	round file
+n04115256	row house, town house
+n04115456	rowing boat
+n04115996	royal mast
+n04116512	rubber eraser, rubber, pencil eraser
+n04118021	rug, carpet, carpeting
+n04118538	rugby ball
+n04118635	ruin
+n04118776	rule, ruler
+n04120489	running shoe
+n04120842	runway
+n04121228	rushlight, rush candle
+n04121426	rya, rya rug
+n04123740	saddle
+n04124202	saddle blanket, saddlecloth, horse blanket
+n04125021	safe
+n04126066	safety bicycle, safety bike
+n04126980	safety match, book matches
+n04127117	safety net
+n04127249	safety pin
+n04127521	safety razor
+n04127633	safety valve, relief valve, escape valve, escape cock, escape
+n04127904	sail, canvas, canvass, sheet
+n04128413	sail
+n04128499	sailboat, sailing boat
+n04128837	sailing vessel, sailing ship
+n04131208	salon, beauty salon, beauty parlor, beauty parlour, beauty shop
+n04131690	saltshaker, salt shaker
+n04133789	sandal
+n04136333	sarong
+n04137444	satellite, artificial satellite, orbiter
+n04138977	saucepan
+n04140064	saw
+n04140631	sawhorse, horse, sawbuck, buck
+n04141076	sax, saxophone
+n04141327	scabbard
+n04141712	scaffolding, staging
+n04141975	scale, weighing machine
+n04143140	scanner, digital scanner, image scanner
+n04144539	scatter rug, throw rug
+n04146050	school, schoolhouse
+n04146504	school bell
+n04146614	school bus
+n04146862	school ship, training ship
+n04147183	schooner
+n04147793	scimitar
+n04148054	scissors, pair of scissors
+n04148579	sconce
+n04148703	sconce
+n04149374	scooter
+n04149813	scoreboard
+n04152387	screen
+n04152593	screen, CRT screen
+n04153025	screen door, screen
+n04153751	screw
+n04154565	screwdriver
+n04156140	scrub brush, scrubbing brush, scrubber
+n04156297	scrub plane
+n04158807	sea boat
+n04160586	seaplane, hydroplane
+n04161358	seat
+n04161981	seat
+n04162433	seat
+n04162706	seat belt, seatbelt
+n04164757	second hand
+n04164868	secretary, writing table, escritoire, secretaire
+n04165675	security blanket
+n04165945	security system, security measure, security
+n04166281	sedan, saloon
+n04168199	Segway, Segway Human Transporter, Segway HT
+n04169437	selector, selector switch
+n04176068	serving cart
+n04176190	serving dish
+n04176528	set
+n04177041	set gun, spring gun
+n04179712	sewing basket
+n04179824	sewing kit
+n04179913	sewing machine
+n04180063	sewing needle
+n04180229	sewing room
+n04181228	shackle, bond, hamper, trammel
+n04182322	shaft
+n04183217	shag rug
+n04185804	shaver, electric shaver, electric razor
+n04185946	shaving brush
+n04186051	shaving cream, shaving soap
+n04188179	sheet, bed sheet
+n04190052	shelf
+n04190376	shelf bracket
+n04191595	shelter
+n04191943	shelter
+n04192238	shelter
+n04192698	shield, buckler
+n04192858	shield
+n04194127	shin guard, shinpad
+n04194289	ship
+n04197391	shirt
+n04197781	shirt button
+n04199027	shoe
+n04200000	shoe
+n04200800	shoe shop, shoe-shop, shoe store
+n04201297	shoji
+n04202417	shop, store
+n04204081	shopping bag
+n04204238	shopping basket
+n04204347	shopping cart
+n04204755	short circuit, short
+n04205062	short iron
+n04205318	short pants, shorts, trunks
+n04206790	shot tower
+n04208210	shovel
+n04208936	shower
+n04209133	shower cap
+n04209239	shower curtain
+n04209509	shower room
+n04209613	shower stall, shower bath
+n04210120	shredder
+n04211356	shutter
+n04211528	shutter
+n04212165	shuttle bus
+n04212282	shuttlecock, bird, birdie, shuttle
+n04213105	sickbay, sick berth
+n04215402	sidewalk, pavement
+n04216634	sieve, screen
+n04217882	signboard, sign
+n04220250	silo
+n04222210	single bed
+n04224543	sister ship
+n04225987	skateboard
+n04228054	ski
+n04228581	ski boot
+n04229816	ski mask
+n04230487	ski-plane
+n04230603	ski pole
+n04230808	skirt
+n04231693	ski tow, ski lift, lift
+n04232800	skylight, fanlight
+n04233124	skyscraper
+n04235860	sleeping bag
+n04236377	sleeve, arm
+n04238128	slide, playground slide, sliding board
+n04238617	slide projector
+n04238763	slide rule, slipstick
+n04239074	sliding door
+n04239333	sliding window
+n04239436	sling, scarf bandage, triangular bandage
+n04241394	slipper, carpet slipper
+n04241573	slip ring
+n04243546	slot, one-armed bandit
+n04243941	slot machine, coin machine
+n04244997	small boat
+n04245218	small computer system interface, SCSI
+n04245508	small stores
+n04246731	smokehouse, meat house
+n04247011	smoke screen, smokescreen
+n04247736	snack bar, snack counter, buffet
+n04249415	snare drum, snare, side drum
+n04251144	snorkel
+n04251701	snowbank, snow bank
+n04251791	snowboard
+n04252077	snowmobile
+n04252225	snowplow, snowplough
+n04252331	snowshoe
+n04254009	soap dish
+n04254120	soap dispenser
+n04254450	soap pad
+n04254680	soccer ball
+n04254777	sock
+n04255670	soda fountain
+n04255768	soda fountain
+n04256520	sofa, couch, lounge
+n04257223	soft pedal
+n04258138	solar dish, solar collector, solar furnace
+n04259630	sombrero
+n04261638	sound camera
+n04263257	soup bowl
+n04264628	space bar
+n04265275	space heater
+n04266014	space shuttle
+n04266162	space station, space platform, space laboratory
+n04270147	spatula
+n04272054	spectacles, specs, eyeglasses, glasses
+n04273569	speedboat
+n04275548	spider web, spider's web
+n04277352	spindle
+n04279353	spinning rod
+n04280487	spirit stove
+n04282872	split rail, fence rail
+n04284002	spoon
+n04284341	spoon
+n04285008	sports car, sport car
+n04285146	sports equipment
+n04285965	sport utility, sport utility vehicle, S.U.V., SUV
+n04286575	spotlight, spot
+n04288272	spring
+n04292080	square sail
+n04292414	squash racket, squash racquet, bat
+n04292572	squawk box, squawker, intercom speaker
+n04294879	stable, stalls, horse barn
+n04295881	stadium, bowl, arena, sports stadium
+n04296562	stage
+n04297098	stagecoach, stage
+n04299215	stall, stand, sales booth
+n04299370	stall
+n04299963	stamp
+n04301000	stand
+n04304215	starship, spaceship
+n04304680	starting gate, starting stall
+n04308084	stealth aircraft
+n04310018	steam locomotive
+n04310157	steamroller, road roller
+n04311004	steel arch bridge
+n04311174	steel drum
+n04312154	steelyard, lever scale, beam scale
+n04313503	steering wheel, wheel
+n04314107	stem-winder
+n04314914	step, stair
+n04315342	step-down transformer
+n04315713	step stool
+n04315828	step-up transformer
+n04317175	stethoscope
+n04317420	stick
+n04317833	stick
+n04317976	stick, control stick, joystick
+n04318131	stick
+n04318892	stiletto
+n04322801	stock car
+n04325704	stole
+n04326547	stone wall
+n04326896	stool
+n04328186	stopwatch, stop watch
+n04330267	stove
+n04330340	stove, kitchen stove, range, kitchen range, cooking stove
+n04331277	straight chair, side chair
+n04332074	straight razor
+n04332243	strainer
+n04334105	strapless
+n04334599	street
+n04335209	street
+n04335435	streetcar, tram, tramcar, trolley, trolley car
+n04335693	street clothes
+n04335886	streetlight, street lamp
+n04336792	stretcher
+n04341686	structure, construction
+n04344873	studio couch, day bed
+n04345028	study
+n04346328	stupa, tope
+n04347754	submarine, pigboat, sub, U-boat
+n04349306	subway train
+n04350458	suede cloth, suede
+n04350769	sugar spoon, sugar shell
+n04350905	suit, suit of clothes
+n04351550	suite, rooms
+n04355115	Sunday best, Sunday clothes
+n04355267	sun deck
+n04355338	sundial
+n04355821	sun gear
+n04355933	sunglass
+n04356056	sunglasses, dark glasses, shades
+n04356595	sunhat, sun hat
+n04356925	sun parlor, sun parlour, sun porch, sunporch, sunroom, sun lounge, solarium
+n04357314	sunscreen, sunblock, sun blocker
+n04358707	supermarket
+n04359589	support
+n04360798	support column
+n04360914	support hose, support stocking
+n04363082	surface ship
+n04363210	surface-to-air missile, SAM
+n04366033	sushi bar
+n04366367	suspension bridge
+n04367011	sustaining pedal, loud pedal
+n04367480	swab, swob, mop
+n04370048	sweater, jumper
+n04370456	sweatshirt
+n04371430	swimming trunks, bathing trunks
+n04371774	swing
+n04372370	switch, electric switch, electrical switch
+n04373089	switchblade, switchblade knife, flick-knife, flick knife
+n04373428	switch engine, donkey engine
+n04373704	swivel chair
+n04373894	sword, blade, brand, steel
+n04374735	synagogue, temple, tabernacle
+n04376400	synthesizer, synthesiser
+n04376876	syringe
+n04379243	table
+n04379964	table
+n04380346	table knife
+n04380533	table lamp
+n04381587	table-tennis table, ping-pong table, pingpong table
+n04381724	table-tennis racquet, table-tennis bat, pingpong paddle
+n04382438	taboret, tabouret
+n04388743	tank, storage tank
+n04389033	tank, army tank, armored combat vehicle, armoured combat vehicle
+n04389521	tank car, tank
+n04389854	tank engine, tank locomotive
+n04390977	tap, spigot
+n04391838	tape, tape recording, taping
+n04392113	tape, tapeline, tape measure
+n04392985	tape player
+n04393913	tap wrench
+n04395875	tavern, tap house
+n04397027	tea cart, teacart, tea trolley, tea wagon
+n04398044	teapot
+n04399046	tea tray
+n04399382	teddy, teddy bear
+n04401088	telephone, phone, telephone set
+n04402057	telephone line, phone line, telephone circuit, subscriber line, line
+n04402449	telephone pole, telegraph pole, telegraph post
+n04402746	telephone system, phone system
+n04402984	telephone wire, telephone line, telegraph wire, telegraph line
+n04404412	television, television system
+n04404997	television camera, tv camera, camera
+n04405540	television equipment, video equipment
+n04405762	television monitor, tv monitor
+n04405907	television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box
+n04406239	television room, tv room
+n04407435	temple
+n04407686	temple
+n04409011	tender, supply ship
+n04409128	tender, ship's boat, pinnace, cutter
+n04409515	tennis ball
+n04409625	tennis camp
+n04409806	tennis racket, tennis racquet
+n04411264	tent, collapsible shelter
+n04412097	tent-fly, rainfly, fly sheet, fly, tent flap
+n04414476	terry, terry cloth, terrycloth
+n04415257	test equipment
+n04415663	test rocket, research rocket, test instrument vehicle
+n04415815	test room, testing room
+n04417672	thatch, thatched roof
+n04418357	theater curtain, theatre curtain
+n04421872	thermometer
